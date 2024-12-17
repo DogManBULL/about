@@ -1,0 +1,10 @@
+.article{
+    font-family: "Times New Roman";
+    }
+.popup{
+    background-color:red;
+    color:yellow;
+    border-radius:23px;
+    height: 40px;
+    font-size:23px;
+    }
