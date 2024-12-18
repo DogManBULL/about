@@ -1,0 +1,62 @@
+.p1{
+    color:green;
+    font-weight:1.5;
+    font-size: 56px;
+    font-family:Arial;
+    text-decoration:overline;
+    word-spacing: 41px;
+    text-transform:lowercase;
+    letter-spacing:-1.09px;
+    
+    }
+.p2{
+    color:blue;
+    font-weight:0.5;
+    font-family: "Courier New";
+    font-size: 59px;
+    font-variant:small-caps;
+    text-shadow: 4px 2px 1px #feb1b1;
+    white-space:preline;
+    word-spacing: 12px;
+    letter-spacing:-1.12px;
+    }
+@font-face{
+    font-family:BadFont;
+    src: url(BadFont.otf);
+    }
+.p3{
+    color:red;
+    font-weight:2;
+    font-size: 45px;
+    font-family:BadFont;
+    text-shadow: 1px 1px 3px #62acc1;
+    whitespace:prewrap;
+    word-spacing: 7.5px;
+    text-transform:uppercase;
+    letter-spacing:2.05px;
+    }
+.p4{
+    color:gray;
+    font-family: Roboto;
+    font-size:44px;
+    text-shadow: 5px 4px 2px #980562;
+    text-decoration:line-through;
+    whitespace:pre;
+    word-spacing: 18.5px;
+    letter-spacing:2.62px;
+
+    }
+.p5{
+    color:orange;
+    font-family:'Playwrite México Guides';
+    font-size:60px;
+    text-shadow: 6px 0px 5px #1d7575;
+    white-space:nowrap;
+    text-indent:16px;
+    word-spacing: 50px;
+    letter-spacing:-3.06px;
+    }
+
+    
+
+
