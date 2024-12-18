@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset = utf-8">
+        <meta name=viewpoint content = "width = device-width"
+        <title>Example Website</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playwrite+MX+Guides&display=swap" rel="stylesheet">
+        <link rel ='stylesheet' href = 'page2.css'>
+    </head>
+    <body>
+        <p class = p1>Lorem ipsum odor amet, consectetuer adipiscing elit. Id tempus luctus morbi tempus aliquam ullamcorper habitasse leo bibendum. Cras bibendum nibh tempus hendrerit mus dapibus ex. Montes senectus porta felis cursus quam; mus amet metus. Aliquam dignissim nostra gravida dignissim porttitor viverra. Facilisi finibus tristique semper dui donec quam at ligula placerat. Class lectus a quis hendrerit penatibus hac eget nulla felis? Mi vitae tortor tempor tortor aliquam magnis libero. Sollicitudin enim integer quis ut vel ultricies hendrerit vitae in.</p>
+        <p class = p2>Quis a malesuada facilisis cursus, est dictumst metus a erat. Ex id per cras suscipit ornare vivamus. Duis integer ornare ad viverra nunc. Enim urna placerat facilisi ullamcorper vestibulum aliquam gravida porta. Quis orci enim accumsan platea nec. Iaculis natoque duis mollis, augue vestibulum feugiat. Natoque ad aenean rutrum ultrices est ex proin etiam.</p>
+        <p class = p3>Viverra enim natoque vitae proin mauris mus facilisi mus.<br> Tincidunt suscipit semper senectus himenaeos sodales. Mollis elementum sociosqu in augue vitae; lacinia tempus venenatis congue. Pellentesque euismod nec libero vel nam taciti est. Molestie erat lobortis parturient habitasse faucibus malesuada congue parturient gravida. Faucibus arcu eleifend pretium donec per rhoncus. Enim fermentum fringilla sit nec habitant sagittis. Aenean ipsum efficitur maximus arcu interdum facilisis molestie. In scelerisque egestas dignissim leo magnis dis, hendrerit non.</p>
+        <hr/>
+        <p class = p4>Enim est hendrerit ridiculus faucibus sodales tellus viverra. Tempor proin pharetra etiam hendrerit lobortis bibendum turpis. Purus lacinia curae vulputate suscipit ac tellus. Vitae dolor ultricies at ornare vitae gravida nisl metus. Porta ultricies purus finibus neque praesent faucibus. Laoreet eget ridiculus phasellus mattis eros? Laoreet urna ullamcorper ut condimentum hac sodales vehicula convallis.</p>
+        <p class = p5>Nostra aliquam aliquam per class morbi tortor habitant morbi. Eu quis elit augue tristique placerat ut ut morbi. Viverra ex hendrerit libero ridiculus elementum ridiculus. Vestibulum dignissim cursus dui, ultricies velit accumsan imperdiet porta. Urna sodales pulvinar tincidunt taciti feugiat. Fermentum libero tempor condimentum blandit nibh pellentesque. Mus vestibulum tortor sollicitudin nunc justo risus pellentesque non. Vel donec vehicula nunc mauris euismod euismod.</p>
